@@ -1,0 +1,30 @@
+div.center {
+    padding: 129px 0;
+    text-align: center;
+}
+
+p.contFont {
+    font-size: 100px;
+    color: purple;
+    font-family: Arial;
+}
+
+h1.letra {
+    font-size: 40px;
+    color: darkblue;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium';
+}
+
+button.config {
+    padding: 5px 10px;
+    font-size: large;
+    font-family: Arial;
+    cursor: pointer;
+    border: solid;
+    border-width: 4px;
+    border-color: black;
+    border-style: double;
+    border-radius: 6px;
+    margin: 10px;
+}
